@@ -1,0 +1,29 @@
+body{
+   background-color: #f6c1d8;
+}
+h1 {
+    color: #ff007f; 
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    border: 2px solid #ff007f; 
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .button {
+    background-color: #ff007f; 
+    color: #fff; 
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+  border-radius: 5px;
+}
+.delete{
+  background-color: transparent; 
+  border: none;
+  outline: none; 
+  cursor: pointer;
+}
